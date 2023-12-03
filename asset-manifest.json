@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/lab7/static/css/main.b8f85ce8.css",
+    "main.js": "/lab7/static/js/main.a1421f0d.js",
+    "static/media/kyiv.webp": "/lab7/static/media/kyiv.ef20070407f9f8caaef1.webp",
+    "index.html": "/lab7/index.html",
+    "main.b8f85ce8.css.map": "/lab7/static/css/main.b8f85ce8.css.map",
+    "main.a1421f0d.js.map": "/lab7/static/js/main.a1421f0d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b8f85ce8.css",
+    "static/js/main.a1421f0d.js"
+  ]
+}
